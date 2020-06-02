@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="65" height="65" viewBox="0 0 650 650">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="634" height="634"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip-path)">
+    <image id="Vector_Smart_Object" data-name="Vector Smart Object" width="633" height="634" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD8AAAA/CAYAAABXXxDfAAADZ0lEQVRogeWbv2sUQRTHP64XVAyEgGJiEWKVNLYmFopF/gEttNAyEa3UiL3iH+A/YGGRH8RCEQSFpBAtNKlSmGAghaQwQsRofkAkkcg738rezu7dxZvZ7O184MExuzvvfXfv9mbmvTmAW1qAPuAM0Av0AF1AO9AKHAR+AxvAKrAELACfgBlgGth2HKNV2oAh4JWK2m3ANrSfIe03t/QDE8BWg4LTbEv778/TDTgPTKYE7Mom1e++0QmMZSw6bmMaR6YMAmsJweyHrWk8zpE39EhORMdtRONzQjcwl+A0TzancVrlNLCcc+GhfdV4rSAdrSQ4ybOt2LgB3U30xJO+Af/9E2htgt94LZur9hKsNraXt+dVo9Ue8o16CnwAFoGfKeN4GdGNG631Mwpc28sFgzXuaCO2rv2XDK/JXLDgs+5xQKfDAcymzvL2gg3xa/WOBF0OWW8Z3rJ58ruqqyrnEy6yZTI9PVLNeQq2xO/Wmgy5nJ29NrxlL34y2nEQ+Sxv1QHDtT0+Ouy7Xgai6wFR8XccO/5utFRySv/2vgE/IvbSOLMxhuNXtzlcgQntdo2Q7yVc48JEZ3lJLHzyl4FDRjjZcjQjb6LzSlT8JeOUYnMxFC/Ly+c8Ey96WwIdcWX1lcsLorevpAkFF8i/x2yk38UaPp4Ab4zWvwOTB0Zr45TF9zoSP5siJo3PanF6jBY79AQOO7fFMZfiu4zmfHHSUTRdgSYN88xxR7G1B9WWeXLCCUdhtJY0TZwHDqvFcZWOKuvecTh/j05QbhruK7mf0IdL2ylpkC5y3/GB037PHeJsBFoR4SOrgZaC+MhSoDUwPrIQaPGPt+JnjGY/mA603GvTM+GboXjJj70zDhcb0bsdLmM980z8cyJreJIt/WWcUkxE50RUvKSHX3giXnSK3oqkxSPjtGLyT2dUvGRLpgoufEp1lgliBx8apxeLCn1x8W8bLAHJM+OqL1W8cFdLR4rEuuqqIEn8clIms8kZVl01xQuPtYqpCIyqHoM08cINYN5obS7mVUci1erw0ArG90CHcWTvfNGy0DQ6LK/USgXm2ZQsUN14W3sb0kxV18s2hYd4W28f4u1Oiyhe7rGJ4u3uqihe7quL4+WOyjgu9tJed5FPzGoXtZiUv9S7i1pMltTd7aIG/gDgcV23qrgQJgAAAABJRU5ErkJggg=="/>
+  </g>
+</svg>

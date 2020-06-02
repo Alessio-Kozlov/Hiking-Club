@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 -10 200 200">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="200" height="180"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip-path)">
+    <image id="Слой_5" data-name="Слой 5" x="9" y="25" width="181" height="130" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAgCAYAAACGhPFEAAACtElEQVRYhd2YO4sUQRSFv+5ZnR1k0V0frAsKBoviC1QwMxDEFyYigpkarImJsb/AQBRMzE1dDQQFRSPNFI0UEwUfqGiwyCg640yPXDzl1HZVz7rBzrR7oJnqe29Vnb5dVfdMJxsnJ8khBaaBDcAh4FM+YNAYisyfAUfVnhgQ6eVATVwcLJkNYMZIbwb2KqCtDh0gAaaAp0BFtnYwfAjr15I1Ub9KLqotex5m3wGcBoYjpJvARVsesc6lhmX6GrBfWWnLtkakZ4DvBcvIPX0aWP9kyLJbBX7pisU5JPJbv5WBdza+GpmTehWO9DjwRmFngesFpDv/QHqpCLcK4vCWYkXz23I9BawClgF14IfGsvsrjsxPb5C3XvulJmzRPzzWVYhYBg1HgHXAs8BTAhSRvh1YSoSidVZqLCrS64FdgbUkiJFOtQGf6PgpHWIb0c7YMbXXAi+CiIXHcZ3JvmxIdTTfNNLngIMKyFTF3IF/Afiogz+bh/Zoe2M47ZF4tpbXdnDaZuscb/jBf6s97FUc9jJgr+WE7u8Dr4ElQc9uGa/kFJuvYYalzJz2KEqQX8a3ADuDiC4exv4E4A2+B3gUeBceB4ARyeRvwGc99GrgTmwjmvOV/rl8Cbz9wd1es8RIZxLiY57aKxVipJEcrAfWkiBWXEqPRUX6mIpOEnhKgKI1Pa3fewMq4z3hSI96RWHU67AdeKe4TMVnruzHynia61f0CcHG3wacUWHKw4rUVSsut4B9cmaaoKb7hgJdtZrPd4+OR2woRzqvPTqefTwYcTY+2GC7PZJ5VHWVCRNGepNqfaqsrgBuKLvnrdYXEPe1Rx5Oe9SkPZo9Nr0/TlNcpsQjVfab+oRguDSX9jCZ+Dzw9gcjEmoNXVU9RL3o9Lgs7fE+8PQP+Yr899tLUabLhu4mhs5vUGeb0wRfQZsAAAAASUVORK5CYII="/>
+  </g>
+</svg>
